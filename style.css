@@ -86,14 +86,14 @@ select {
     font-family: 'Gilroy-Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('Gilroy-Bold ☞'), url('/fonts/Gilroy-Bold.woff') format('woff');
+    src: local('Gilroy-Bold ☞'), url('fonts/Gilroy-Bold.woff') format('woff');
 }
     
 @font-face {
     font-family: 'Gilroy-Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('Gilroy-Medium ☞'), url('/fonts/Gilroy-Medium.woff') format('woff');
+    src: local('Gilroy-Medium ☞'), url('fonts/Gilroy-Medium.woff') format('woff');
 }
 
 
