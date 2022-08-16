@@ -86,14 +86,14 @@ select {
     font-family: 'Gilroy-Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('Gilroy-Bold ☞'), url('fonts/Gilroy-Bold.woff') format('woff');
+    src: local('Gilroy-Bold ☞'), url('./fonts/Gilroy-Bold.woff') format('woff');
 }
     
 @font-face {
     font-family: 'Gilroy-Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('Gilroy-Medium ☞'), url('fonts/Gilroy-Medium.woff') format('woff');
+    src: local('Gilroy-Medium ☞'), url('./fonts/Gilroy-Medium.woff') format('woff');
 }
 
 
@@ -431,22 +431,22 @@ header div {
 .fifthblock section div:nth-child(1) {
     width: 41px;
     height: 41px;
-    background-image: url('/img/fifthblock/instagram.svg');
+    background-image: url('./img/fifthblock/instagram.svg');
 }
 .fifthblock section div:nth-child(2) {
     width: 40px;
     height: 41px;
-    background-image: url('/img/fifthblock/linked.svg');
+    background-image: url('./img/fifthblock/linked.svg');
 }
 .fifthblock section div:nth-child(3) {
     width: 41px;
     height: 41px;
-    background-image: url('/img/fifthblock/behance.svg');
+    background-image: url('./img/fifthblock/behance.svg');
 }
 .fifthblock section div:nth-child(4) {
     width: 40px;
     height: 41px;
-    background-image: url('/img/fifthblock/dribble.svg');
+    background-image: url('./img/fifthblock/dribble.svg');
 }
 
 .fifthblock h4 {
