@@ -382,6 +382,15 @@ header div {
     text-decoration-line: underline;
 }
 
+@media (max-width: 500px) {
+    .fourthblock {
+        height: 1500px;
+    }
+    .fourthblock::before {
+        height: 1500px;
+    }
+}
+
 
 .fifthblock {
     height: 622px;
